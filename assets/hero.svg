@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title"><title id="title">Luis Taffelli — an original ink landscape, wandering swordsman and engineering terminal</title><rect x="0" y="0" width="1200" height="500" rx="0" fill="#171918" stroke="none"/><defs><linearGradient id="sky" x2="1" y2="1"><stop stop-color="#1b211d"/><stop offset="1" stop-color="#111513"/></linearGradient><linearGradient id="fog" x2="0" y2="1"><stop stop-color="#d0c9b4" stop-opacity="0"/><stop offset="1" stop-color="#d0c9b4" stop-opacity=".22"/></linearGradient></defs>
+<path d="M0 0H1200V500H0Z" fill="url(#sky)"/>
+<circle cx="365" cy="166" r="114" fill="#a94e3c"/>
+<circle cx="365" cy="166" r="126" fill="none" stroke="#cd8f72" stroke-opacity=".2"/>
+<path d="M0 290 105 125 144 181 233 83 321 229 389 185 508 326 0 400Z" fill="#353b31"/>
+<path d="m170 183 63-100 88 146-73-71-15-42-23 47Z" fill="#747868" opacity=".45"/>
+<path d="M0 358 93 294 162 335 249 230 347 333 434 300 542 420H0Z" fill="#252e27"/>
+<path d="M0 342q160-45 309-11t255 28v141H0Z" fill="url(#fog)"/>
+<path d="M0 404q150-30 291-10t253 15" stroke="#d8d1ba" stroke-opacity=".18" fill="none"/>
+<path d="M0 472 95 447 156 455 229 420 301 440 353 416 454 455 537 500H0Z" fill="#101411"/>
+<!-- Original wandering swordsman silhouette; no existing game asset. -->
+<g fill="#101411" stroke="#101411" stroke-linejoin="round">
+<path d="m222 421 9-73 23-34 25 10 17 66 20 44-41-7-9-55-13 53Z"/>
+<path d="m233 350-8-35 17-43 29 2 18 48-12 39Z"/>
+<path d="m242 278 5-23 21-2 7 15-10 20Z"/>
+<path d="m246 260 12-18 9 7 2 13Z"/>
+<path d="m242 251 18-15 17 18-1 7-41 1Z"/>
+<path d="m237 288-23 39 10 5 26-31M272 288l31 38-10 8-28-28" stroke-width="8"/>
+<path d="m271 359 67 64" stroke="#b6b6a4" stroke-width="3"/>
+<path d="m260 348 22 22" stroke-width="6"/>
+</g>
+<path d="m268 279 53 8 40-12-32 26-59-9" fill="#a95843"/>
+<path d="M10 0 29 126 9 207 20 319 0 365V0" fill="#0b100e"/>
+<path d="M12 111 80 81 127 86M24 154l76-14 50 15M8 200l58-13" fill="none" stroke="#0b100e" stroke-width="9"/>
+<g fill="#c98165" opacity=".6"><circle cx="406" cy="317" r="2"/><circle cx="376" cy="346" r="1.5"/><circle cx="438" cy="296" r="2"/><circle cx="182" cy="373" r="1.5"/></g><rect x="531" y="0" width="669" height="500" rx="0" fill="#151916" stroke="none"/><path d="M531 24L531 476" stroke="#505244" stroke-width="1" fill="none"/><text x="574" y="54" fill="#dc9276" font-family="monospace" font-size="14" font-weight="normal" letter-spacing="3">ENGINEERING / FIELD NOTES</text><text x="571" y="127" fill="#eee8da" font-family="serif" font-size="64" font-weight="normal">LUIS</text><text x="571" y="191" fill="#eee8da" font-family="serif" font-size="64" font-weight="normal">TAFFELLI</text><path d="M575 218L1138 218" stroke="#dc9276" stroke-width="2" fill="none"/><text x="575" y="254" fill="#eee8da" font-family="monospace" font-size="18" font-weight="normal" letter-spacing="2">BUILD. UNDERSTAND. REFINE.</text><rect x="575" y="284" width="564" height="157" rx="5" fill="#0e1410" stroke="#454a40"/><text x="596" y="313" fill="#b9b9ac" font-family="monospace" font-size="14" font-weight="normal">luis@workbench ~</text><path d="M575 326L1139 326" stroke="#454a40" stroke-width="1" fill="none"/><text x="596" y="355" fill="#dc9276" font-family="monospace" font-size="16" font-weight="normal">$ focus</text><text x="596" y="382" fill="#eee8da" font-family="monospace" font-size="16" font-weight="normal">backend · automation · AI integrations</text><text x="596" y="412" fill="#b9b9ac" font-family="monospace" font-size="15" font-weight="normal">&gt; human review + validation</text><text x="36" y="466" fill="#eee8da" font-family="monospace" font-size="13" font-weight="normal" letter-spacing="1">// PRECISION IN EVERY ITERATION</text><text x="574" y="475" fill="#b9b9ac" font-family="monospace" font-size="13" font-weight="normal" letter-spacing="2">SOFTWARE ENGINEER</text><rect x="36" y="484" width="1128" height="1" fill="#b7b7a5" opacity=".3"><animate attributeName="opacity" values=".2;.6;.3" dur="8s" repeatCount="1" fill="freeze"/></rect></svg>

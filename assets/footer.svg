@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title"><title id="title">A seated miniature samurai cradles a dorodango in one hand and polishes it with a cloth in the other. Dorodango mindset: shape, refine, repeat.</title><rect x="0" y="0" width="1200" height="220" rx="0" fill="#171918" stroke="none"/><path d="M24 22L1176 22" stroke="#dc9276" stroke-width="1" fill="none"/><defs><radialGradient id="clay" cx=".32" cy=".25" r=".8"><stop stop-color="#d3a982"/><stop offset=".55" stop-color="#9c6046"/><stop offset="1" stop-color="#563e32"/></radialGradient></defs>
+<g transform="translate(72 35)" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="101" cy="158" rx="88" ry="10" fill="#0e120f"/>
+<!-- Crossed legs and relaxed shoulders: seated craft, no weapon. -->
+<path d="M78 110Q48 112 27 141Q21 152 43 156L103 151 158 156Q180 154 164 140L132 113Z" fill="#485344" stroke="#89917b" stroke-width="3"/>
+<path d="m46 144 61-13 47 15M103 132l-6 18" fill="none" stroke="#a5ac94" stroke-width="3"/>
+<path d="M74 62Q95 53 115 65L133 113Q102 129 65 113Z" fill="#69715a" stroke="#a5ac94" stroke-width="3"/>
+<path d="m82 64 14 29 15-29M69 109l57 2" fill="none" stroke="#c3c5ab" stroke-width="4"/>
+<!-- Head tilted down toward the ball, tied hair and small topknot. -->
+<path d="M81 27Q111 17 118 40L114 58Q103 71 89 57L80 44Z" fill="#cbb394"/>
+<path d="M80 43Q70 19 91 17Q114 12 120 33L106 30 95 41Z" fill="#111712" stroke="#8b937e" stroke-width="2"/>
+<path d="M91 18Q81 3 94 3Q107 5 101 18Z" fill="#111712" stroke="#8b937e" stroke-width="2"/>
+<path d="m105 47 7 2" stroke="#393b30" stroke-width="2"/>
+<path d="m83 59 20 11 15-8" fill="none" stroke="#c1775a" stroke-width="7"/>
+<!-- Sleeves converge; lower palm cups the ball, upper palm rubs a cloth. -->
+<path d="M74 77 62 102 103 122M117 77l24 16-15 17" fill="none" stroke="#a0a58c" stroke-width="16"/>
+<circle cx="116" cy="113" r="19" fill="url(#clay)" stroke="#d4b28b" stroke-width="2"/>
+<path d="M101 128q16 9 29-2" fill="none" stroke="#d6bd9e" stroke-width="9"/>
+<path d="m104 96 22-5 10 14-23 7Z" fill="#ded7be" stroke="#a6a88f" stroke-width="2"/>
+<path d="m128 98-15 4" stroke="#d6bd9e" stroke-width="9"/>
+<path d="m107 91 10-6m14 3 7 6" fill="none" stroke="#bcbba3" stroke-width="2" opacity=".7"/>
+<ellipse cx="109" cy="116" rx="4" ry="2" fill="#f1dfb7" opacity=".65"/>
+<path d="M151 111v8m-4-4h8" stroke="#e5c79c" stroke-width="2" opacity=".65"/>
+</g><text x="300" y="83" fill="#b9b9ac" font-family="monospace" font-size="16" font-weight="normal" letter-spacing="2">KEEP BUILDING. KEEP REFINING.</text><text x="300" y="132" fill="#eee8da" font-family="serif" font-size="29" font-weight="normal">Dorodango mindset: shape, refine, repeat.</text><text x="300" y="175" fill="#b9b9ac" font-family="monospace" font-size="13" font-weight="normal" letter-spacing="2">LUIS TAFFELLI / ENGINEERING</text></svg>
