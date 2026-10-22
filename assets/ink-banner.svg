@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">Ink landscape</title><desc id="desc">Charcoal mountains, pale mist and a rust-red sun. Original geometric artwork.</desc>
+<defs><linearGradient id="mist" x2="0" y2="1"><stop stop-color="#ded8cb" stop-opacity="0"/><stop offset="1" stop-color="#ded8cb" stop-opacity=".15"/></linearGradient></defs>
+<path fill="#171919" d="M0 0h1200v290H0z"/>
+<circle cx="958" cy="102" r="61" fill="#a44b3e"/>
+<path d="M380 255 565 101 587 141 642 76 731 174 774 139 900 250Z" fill="#343735"/>
+<path d="m618 102 24-26 89 98-68-43-21-30-21 36-34 4Z" fill="#5c5d55" opacity=".6"/>
+<path d="m720 290 166-116 35 21 97-71 182 134v32Z" fill="#242827"/>
+<path d="M0 235q160-55 350 0t350-8 500-15v78H0Z" fill="url(#mist)"/>
+<path d="M0 260q150-24 330 4t390-12 480 3" fill="none" stroke="#b7b5a9" stroke-opacity=".19" stroke-width="2"/>
+<path d="m1072 290-14-115 15-48-4 72 20-27-14 40 10 78Z" fill="#111414"/>
+<path d="m1061 201-53-24 15-2 39 15 41-34-14 24-25 25" fill="#111414"/>
+<path d="M54 58h35" stroke="#c86856" stroke-width="3"/>
+<text x="54" y="100" fill="#eee8da" font-family="monospace" font-size="17" letter-spacing="3">BUILD. UNDERSTAND. REFINE.</text>
+<text x="54" y="128" fill="#b5b7ad" font-family="monospace" font-size="12" letter-spacing="2">// SYSTEMS &amp; SOFTWARE</text>
+<path d="M54 230h108" stroke="#61665f"/>
+<text x="54" y="253" fill="#b5b7ad" font-family="monospace" font-size="10" letter-spacing="2">LUIS TAFFELLI / ENGINEERING</text>
+</svg>
