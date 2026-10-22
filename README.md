@@ -2,9 +2,9 @@
 
 # Luis Taffelli
 
-**Software Engineer · Backend & Distributed Systems**
+**Software Engineer · Backend, Automation & AI Integrations**
 
-I build backend services and automation systems, with a focus on reliability, scalability and maintainability. My main stack is Node.js and JavaScript. I enjoy understanding how software works internally and making complex workflows simpler.
+I build backend services and automation systems, with a focus on reliability, scalability and maintainability. My main stack is Node.js and JavaScript. I enjoy understanding how software works internally and making complex workflows simpler. I integrate AI agents into my development workflow for research, prototyping and code generation, with human review and validation.
 
 ```text
 > focus
